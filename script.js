@@ -1,5 +1,5 @@
 const upperCaseLetters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split('');
-const lowerCaseLetters = "abcdefghijklmkopqrstuvwxyz".split('');
+const lowerCaseLetters = "abcdefghijklmnopqrstuvwxyz".split('');
 const specialCharacters = "!#$%&\"'()*+,-./:;<=>?@[\]^_`{|}~".split('');
 const numbericCharacters = "0123456789".split('');
 
